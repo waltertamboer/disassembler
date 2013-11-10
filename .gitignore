@@ -11,3 +11,13 @@
 *.lai
 *.la
 *.a
+
+# Visual Studio
+*.sdf
+*.suo
+*.user
+*.opensdf
+
+# Project
+bin
+intermediate
